@@ -1,7 +1,7 @@
 # Hi 👋 I'm Kavanashree K
 
 🎓 Computer Science & Design Engineering Student  
-💻 AI Engineer | Python Developer  
+💻 AI Engineer Intern | Python Developer  
 📍 Bengaluru, India  
 
 ---
