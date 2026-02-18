@@ -1,7 +1,7 @@
 # Hi 👋 I'm Kavanashree K
 
 🎓 Computer Science & Design Engineering Student  
-💻 AI Engineer Intern@Wizzy Box pvt lim | Python Developer  
+💻 AI Engineer Intern@Wizzy Box private limited | Python Developer  
 📍 Bengaluru, India  
 
 ---
